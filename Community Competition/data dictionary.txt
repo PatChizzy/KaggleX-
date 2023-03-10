@@ -1,0 +1,43 @@
+Column Name	Description	Data Type
+AAGE	age	nominal
+ACLSWKR	class of worker	nominal
+ADTIND	detailed industry recode	nominal
+ADTOCC	detailed occupation recode	nominal
+AHGA	education	nominal
+AHRSPAY	wage per hour	continuous
+AHSCOL	enroll in edu inst last wk	nominal
+AMARITL	marital stat	nominal
+AMJIND	major industry code	nominal
+AMJOCC	major occupation code	nominal
+ARACE	race	nominal
+AREORGN	hispanic origin	nominal
+ASEX	sex	nominal
+AUNMEM	member of a labor union	nominal
+AUNTYPE	reason for unemployment	nominal
+AWKSTAT	full or part time employment stat	nominal
+CAPGAIN	capital gains	continuous
+CAPLOSS	capital losses	continuous
+DIVVAL	dividends from stocks	continuous
+FILESTAT	tax filer status	nominal
+GRINREG	region of previous residence	nominal
+GRINST	state of previous residence	nominal
+HHDFMX	detailed household and family stat	nominal
+HHDREL	tax filer status	nominal
+FILESTAT	detailed household summary in household	nominal
+MIGMTR1	migration code-change in msa	nominal
+MIGMTR3	migration code-change in reg	nominal
+MIGMTR4	migration code-move within reg	nominal
+MIGSAME	live in this house 1 year ago	nominal
+MIGSUN	migration prev res in sunbelt	nominal
+NOEMP	num persons worked for employer	continuous
+PARENT	family members under 18	nominal
+PEFNTVTY	country of birth father	nominal
+PEMNTVTY	country of birth mother	nominal
+PENATVTY	country of birth self	nominal
+PRCITSHP	citizenship	nominal
+SEOTR	own business or self employed	nominal
+VETQVA	fill inc questionnaire for veteran's admin	nominal
+VETYN	veterans benefits	nominal
+WKSWORK	weeks worked in year	continuous
+YEAR	Population Surveys year	nominal
+TARGET	person total income. 0 means <$50K and 1 means >=$50K	nominal
