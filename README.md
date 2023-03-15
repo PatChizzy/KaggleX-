@@ -1,7 +1,6 @@
 # Project Directory
 This repository contains the code for multiple projects related to data analysis and machine learning. Unfortunately, due to the large size of the data used in some of these projects, I was unable to push it to this repository. However, I have provided links to where you can find the data for each project.
 
-The content of this repo is subject to change, as I'm still working on more projects.
 
 
 ## Table of Contents
@@ -10,12 +9,14 @@ The content of this repo is subject to change, as I'm still working on more proj
 - [WiDS Weather Prediction Project](/WiDS-Weather-Prediction)
 - [Car information data analysis](/Car-analysis)
 
+-------------------------------------------------------------
 ## Osteoporosis
 This project explores the classification of Osteoporosis in Knee X-rays using Deep-Learning and Transfer Learning Techniques. The code for this project can be found in the osteoporosis directory.
 
 Data
 The data used in this project can be found at the following link: https://www.kaggle.com/datasets/stevepython/osteoporosis-knee-xray-dataset. 
 
+---------------------------------------------------------------------
 
 ## WiDS Weather Prediction
 This project involves predicting weather patterns using machine learning techniques. 
@@ -27,6 +28,8 @@ Accurate long-term forecasts of temperature and precipitation are crucial to hel
 
 Data
 The dataset was created in collaboration with Climate Change AI (CCAI) and can be found  link: https://www.kaggle.com/competitions/widsdatathon2023/data. 
+
+---------------------------------------------------------------------------------------------
 
 ## Data Visualization of Vehicle dataset
 In this project, I performed Exploratory Data Analysis (EDA) to generate some descriptive insight.
