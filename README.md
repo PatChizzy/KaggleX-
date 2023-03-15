@@ -8,7 +8,7 @@ The content of this repo is subject to change, as I'm still working on more proj
 
 - [Osteoporosis Project](/Osteoporosis)
 - [WiDS Weather Prediction Project](/WiDS-Weather-Prediction)
-- [Car information data analysos](/Car Analysis)
+- [Car information data analysos](/Car-Analysis)
 
 ## Osteoporosis
 This project explores the classification of Osteoporosis in Knee X-rays using Deep-Learning and Transfer Learning Techniques. The code for this project can be found in the osteoporosis directory.
